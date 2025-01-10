@@ -1,6 +1,6 @@
 # Launch Sequence Analyzer
 
-Neural network-based system for analyzing engine test data and detecting anomalies in real-time. Essentially a test system for some of the telemetry stuff we've been working on.
+Neural network-based system for analyzing engine test data and detecting anomalies in real-time. Essentially a test system for some of the telemetry stuff we've been working on, kind of for fun, but maybe we will use it.
 
 ## Overview
 
@@ -44,7 +44,3 @@ python monitor.py
 ## Contact
 
 memo.ozdincer@mail.utoronto.ca
-
-## License
-
-MIT
