@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Train model:
 ```python
-python train_model.py --data path/to/your/data.csv (I will do a full C++ implementation for the Kalman filter later)
+python train_model.py --data path/to/your/data.csv (I will publish the sensor fusion code using C++ Kalman filter later, currently it only works with two sensors.)
 ```
 
 Run monitor:
